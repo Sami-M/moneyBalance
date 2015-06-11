@@ -1,0 +1,32 @@
+{
+  "name": "moneyBalance",
+  "version": "0.0.1",
+  "authors": [
+    "Sami-M <sami.mirimiri@live.com>"
+  ],
+  "description": "An offline budget management tool",
+  "main": "index.html",
+  "keywords": [
+    "node",
+    "webkit",
+    "angular",
+    "win",
+    "osx"
+  ],
+  "license": "MIT",
+  "homepage": "sami-m.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.0",
+    "bootstrap-material-design": "~0.3.0",
+    "ui-router": "~0.2.15",
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.4"
+  }
+}

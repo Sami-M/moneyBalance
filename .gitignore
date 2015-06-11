@@ -1,0 +1,9 @@
+tmp/
+node_modules/
+nwjs/
+nw-sample-apps-master/
+resources/
+.editorconfig
+.jshintrc
+.yo-rc.json
+bower_components/
